@@ -5,7 +5,7 @@
 <h4 align="center">Welcome to my profile! I'm a Front-End Web Developer from Bangladesh. Thanks for visiting and I'd love to connect!</h4>
 <br>
 
-![](https://github-widgetbox.vercel.app/api/profile?username=sulaimanbiswas&data=followers,repositories,stars,commits&theme=nautilus)
+<!-- ![](https://github-widgetbox.vercel.app/api/profile?username=sulaimanbiswas&data=followers,repositories,stars,commits&theme=nautilus) -->
 
 ---
 
